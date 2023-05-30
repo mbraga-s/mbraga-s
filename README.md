@@ -15,7 +15,7 @@
 
 <div align = "center">
 <h2> Github stats</h2>
-<a href="https://github.com/mbraga-s"><img height="195px" src="https://github-readme-stats.vercel.app/api?username=mbraga-s&bg_color=344648&title_color=ffffff&text_color=ffbb98&rank_icon=github&count_private=true" alt="mbraga-s's commit stats"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbraga-s&bg_color=344648&title_color=ffffff&text_color=ffbb98&layout=donut-vertical" alt="mbraga-s's used languages"><img height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=mbraga-s&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=344648&ring=FFBB98&fire=FFBB98&currStreakNum=FFFFFF&sideNums=FFBB98&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=FFBB98" alt="mbraga-s's commit streak"></a>
+<a href="https://github.com/mbraga-s"><img height="195px" src="https://github-readme-stats.vercel.app/api?username=mbraga-s&bg_color=344648&title_color=FFFFFF&text_color=ffbb98&rank_icon=github&count_private=true" alt="mbraga-s's commit stats"><img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbraga-s&bg_color=344648&title_color=FFFFFF&text_color=ffbb98&layout=donut-vertical" alt="mbraga-s's used languages"><img height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=mbraga-s&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=344648&ring=FFBB98&fire=FFBB98&currStreakNum=FFFFFF&sideNums=FFBB98&sideLabels=FFFFFF&currStreakLabel=FFFFFF&dates=FFBB98" alt="mbraga-s's commit streak"></a>
 </div>
 
 <div  align="center">
