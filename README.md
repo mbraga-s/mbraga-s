@@ -3,7 +3,6 @@
 <h3>About me</h3>
  I'm a former chemistry student from Portugal with a lifelong passion for science in general and computers in particular. I have recently enrolled in the 42 Network to pursue this passion and learn how to code. I'm also a photography enthusiast, so you may find me behind my camera from time to time.
 <h3>Currently working on</h3>
- <a href="https://github.com/mbraga-s/pipex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=pipex&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="Working Repository"></a>
  <a href="https://github.com/mbraga-s/so_long"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=so_long&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="Working Repository"></a>
 </div>
 
