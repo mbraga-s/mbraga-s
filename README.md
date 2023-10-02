@@ -3,13 +3,36 @@
 <h3>About me</h3>
  I'm a former chemistry student from Portugal with a lifelong passion for science in general and computers in particular. I have recently enrolled in the 42 Network to pursue this passion and learn how to code. I'm also a photography enthusiast, so you may find me behind my camera from time to time.
 <h3>Currently working on</h3>
- <a href="https://github.com/mbraga-s/so_long"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=so_long&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="Working Repository"></a>
+ <a href="https://github.com/mbraga-s/push_swap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=push_swap&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="Working Repository"></a>
 </div>
 
 <div  align="center">
 <h2> 42 Network stats</h2>
 <a href="https://profile.intra.42.fr/users/mbraga-s">
 <img src="https://badge.mediaplus.ma/darkgray/mbraga-s?1337Badge=off&UM6P=off" alt="mbraga-s's 42 stats">
+</a>
+</div>
+<div  align="center">
+<a href="https://github.com/mbraga-s/libft">
+<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/libftm.png" alt="Libft 125 pts" width=75 height=75>
+</a>
+<a href="https://github.com/mbraga-s/ft_printf">
+<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf 100 pts" width=75 height=75>
+</a>
+<a href="https://github.com/mbraga-s/get_next_line">
+<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/get_next_linem.png" alt="get_next_line 125 pts" width=75 height=75>
+</a>
+<a href="https://github.com/mbraga-s/Born2BeRoot">
+<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/born2berootm.png" alt="Born2beroot 110 pts" width=75 height=75>
+</a>
+<a href="https://github.com/mbraga-s/pipex">
+<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/pipexe.png" alt="pipex 100 pts" width=75 height=75>
+</a>
+<a href="https://github.com/mbraga-s/so_long">
+<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/so_longn.png" alt="so_long" width=75 height=75>
+</a>
+<a href="https://github.com/mbraga-s/push_swap">
+<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/push_swapn.png" alt="push_swap" width=75 height=75>
 </a>
 </div>
 
