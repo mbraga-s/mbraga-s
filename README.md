@@ -29,7 +29,7 @@
 <img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/pipexe.png" alt="pipex 100 pts" width=75 height=75>
 </a>
 <a href="https://github.com/mbraga-s/so_long">
-<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/so_longn.png" alt="so_long" width=75 height=75>
+<img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/so_longm.png" alt="so_long 125pts" width=75 height=75>
 </a>
 <a href="https://github.com/mbraga-s/push_swap">
 <img src="https://raw.githubusercontent.com/mbraga-s/42-project-badges/main/badges/push_swapn.png" alt="push_swap" width=75 height=75>
@@ -44,7 +44,6 @@
 <div  align="center">
 <h2> Skills</h2>
 <a href="https://learn.microsoft.com/en-us/cpp"><img src="https://skillicons.dev/icons?i=c"  alt="C"></a>
-<a href="https://www.vim.org/"><img src="https://skillicons.dev/icons?i=vim" alt="Vim"></a>
 <a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="VsCode"></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git"></a>
 <a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" alt="arduino"></a>
