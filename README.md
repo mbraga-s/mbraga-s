@@ -6,8 +6,8 @@
 <!-- <a href="https://github.com/mbraga-s/minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=minishell&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="Working Repository"></a> -->
  ~ In between projects ~
 <h3>Take a look at some of my projects</h3>
-<a href="https://github.com/mbraga-s/minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=minishell&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="minishell" height=140></a>
- <a href="https://github.com/mbraga-s/push_swap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=push_swap&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="push_swap" height=140></a>
+<a href="https://github.com/mbraga-s/minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=minishell&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="minishell" width=400></a>
+ <a href="https://github.com/mbraga-s/push_swap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=push_swap&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="push_swap" width=400></a>
 </div>
 
 <div  align="center">
