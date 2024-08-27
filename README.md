@@ -5,7 +5,7 @@
  I'm a former chemistry student from Portugal with a lifelong passion for science and coding. I've enrolled in the 42 Network to pursue this passion and learn how to code. I'm also a photography enthusiast, so you may find me behind my camera from time to time.
 <h3>Currently working on</h3>
 <!-- <a href="https://github.com/mbraga-s/CPPs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=CPPs&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="Working Repository"></a> -->
-~ In between projects ~
+~ C u b 3 D ~
 <h3>Take a look at some of my projects</h3>
 <a href="https://github.com/mbraga-s/minishell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=minishell&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="minishell" width=400></a>
  <a href="https://github.com/mbraga-s/push_swap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mbraga-s&repo=push_swap&bg_color=344648&title_color=ffffff&text_color=ffbb98&show_owner=true" alt="push_swap" width=400></a>
